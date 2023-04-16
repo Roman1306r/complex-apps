@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/complex-apps/static/css/main.718e958d.css",
+    "main.js": "/complex-apps/static/js/main.a854a189.js",
+    "static/media/timer.mp3": "/complex-apps/static/media/timer.5dca7db33374bd45b47d.mp3",
+    "index.html": "/complex-apps/index.html",
+    "main.718e958d.css.map": "/complex-apps/static/css/main.718e958d.css.map",
+    "main.a854a189.js.map": "/complex-apps/static/js/main.a854a189.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.718e958d.css",
+    "static/js/main.a854a189.js"
+  ]
+}
